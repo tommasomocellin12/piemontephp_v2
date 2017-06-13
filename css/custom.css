@@ -1,0 +1,29 @@
+/* qui va il mio codice css */
+.bg-red {
+	background-color: red;
+}
+.bg-blue {
+	background-color: blue;
+}
+.bg-black {
+	background-color: black;
+}
+.bg-gainsboro {
+	background-color: gainsboro;
+}
+figure {
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+figure > img {
+	width: 400px;
+	height: 300px;
+}
+
+body {
+	margin-top: 100px;
+}
